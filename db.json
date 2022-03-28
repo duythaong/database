@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Irene",
+    "animation_url": "https://guildofguardians.mypinata.cloud/ipfs/QmQDee8BPDfAH2ykRX375AWJwYZcbbJQa8wHokrSnMLLUC/HLS/Base/CollectionAsset_Hero_Rufus_Base.m3u8",
+    "animation_url_mime_type": "application/vnd.apple.mpegurl",
+    "image_url": "https://raw.githubusercontent.com/thaobacoor/images/main/1.jpeg",
+    "attack": 4,
+    "collectable": true,
+    "god": "Ranged",
+    "element": "Water",
+    "product": 2,
+    "rarity": 2,
+    "type": 3
+  },
+  {
+    "id": 2,
+    "name": "Irene",
+    "animation_url": "https://guildofguardians.mypinata.cloud/ipfs/QmQDee8BPDfAH2ykRX375AWJwYZcbbJQa8wHokrSnMLLUC/HLS/Base/CollectionAsset_Hero_Rufus_Base.m3u8",
+    "animation_url_mime_type": "application/vnd.apple.mpegurl",
+    "image_url": "https://raw.githubusercontent.com/thaobacoor/images/main/2.jpeg",
+    "attack": 4,
+    "collectable": true,
+    "god": "Ranged",
+    "element": "Water",
+    "product": 2,
+    "rarity": 2,
+    "type": 3
+  },
+  {
+    "id": 3,
+    "name": "Irene",
+    "animation_url": "https://guildofguardians.mypinata.cloud/ipfs/QmQDee8BPDfAH2ykRX375AWJwYZcbbJQa8wHokrSnMLLUC/HLS/Base/CollectionAsset_Hero_Rufus_Base.m3u8",
+    "animation_url_mime_type": "application/vnd.apple.mpegurl",
+    "image_url": "https://raw.githubusercontent.com/thaobacoor/images/main/3.jpeg",
+    "attack": 4,
+    "collectable": true,
+    "god": "Ranged",
+    "element": "Water",
+    "product": 2,
+    "rarity": 2,
+    "type": 3
+  }
+]
